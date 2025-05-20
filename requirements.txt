@@ -6,4 +6,3 @@ rembg
 onnxruntime
 scipy
 pooch
-pyngrok
