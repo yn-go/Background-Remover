@@ -3,4 +3,4 @@ rembg
 Pillow
 numpy
 scikit-learn
-pyngrok==0.3.2
+pyngrok
