@@ -1,6 +1,8 @@
 streamlit
-rembg
 Pillow
 numpy
 scikit-learn
-pyngrok
+rembg
+onnxruntime
+scipy
+pooch
