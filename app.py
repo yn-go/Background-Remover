@@ -7,11 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/1uQ7wGTkWlDWG8aXOfoGUcHUzsSrey88V
 """
 
+'''
 # Sel 1: Installasi (jika belum)
 !pip install streamlit -q
 !pip install rembg Pillow numpy scikit-learn -q
 !pip install pyngrok -q
 !ngrok config add-authtoken 2xNIjg2UgHhMOTybgkiCe7gFaBk_2zJFddbBDWwpt8KgJgM6h # Jalankan sekali saja
+'''
 
 # Commented out IPython magic to ensure Python compatibility.
 # # Sel 2: Tulis file app.py
